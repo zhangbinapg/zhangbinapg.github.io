@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Laravel 出现 No application encryption key has been specified.]]></title>
-    <url>%2F2018%2F08%2F30%2FLaravel%E7%9A%84%E9%97%AE%E9%A2%98%2F</url>
-    <content type="text"><![CDATA[若文件根目录下没有 .env 1、.env.example 改名使用命令 copy 修改为 .env2、使用命令 php artisan key:generate 获取密码，自动保存到 .env3、将密码复制到config/app.php 中的key里面4、重新运行，OK。 如有.env 的情况，直接进行第二步。 两种情况皆无，请重新安装laravel。]]></content>
-      <categories>
-        <category>laravel问题</category>
-      </categories>
-      <tags>
-        <tag>--PHP --laravel</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[我的第一篇博客]]></title>
     <url>%2F2018%2F08%2F24%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%2F</url>
     <content type="text"></content>
